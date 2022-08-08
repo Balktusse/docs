@@ -19,4 +19,4 @@ _or_
 
 Make a Pull Request with the modified/added Content.
 
-[img]https://i.ibb.co/Dtm8PN7/unknown.png[/img]
+![alt text](https://i.ibb.co/Dtm8PN7/unknown.png)
