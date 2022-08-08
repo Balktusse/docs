@@ -19,3 +19,4 @@ _or_
 
 Make a Pull Request with the modified/added Content.
 
+[url=https://imgbb.com/][img]https://i.ibb.co/Dtm8PN7/unknown.png[/img][/url]
