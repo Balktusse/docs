@@ -18,5 +18,3 @@ Simply make an Issue with a brief description of your Suggestion
 _or_ 
 
 Make a Pull Request with the modified/added Content.
-
-![alt text](https://i.ibb.co/Dtm8PN7/unknown.png)
